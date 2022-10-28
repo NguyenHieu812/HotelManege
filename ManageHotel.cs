@@ -46,5 +46,20 @@ namespace Ql_KhachSan
         {
 
         }
+
+        private void kháchHàngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void hOMEToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void phiếuSửDụngDịchVụToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
